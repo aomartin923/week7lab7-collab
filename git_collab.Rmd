@@ -20,6 +20,8 @@ plot(cars)
 
 Here is where I shall werk
 ```{r Maggie}
-
+#pee pee poo poo
+4*4
+plot(cars)
 ```
 
