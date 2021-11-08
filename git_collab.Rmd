@@ -10,3 +10,15 @@ knitr::opts_chunk$set(echo = TRUE)
 ```
 
 Hi Maggie :) 
+
+Hi Ali Cat! Here's a code chunk where you can work:
+```{r Ali}
+
+```
+
+
+Here is where I shall werk
+```{r Maggie}
+
+```
+
