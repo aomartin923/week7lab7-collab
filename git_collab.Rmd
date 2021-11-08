@@ -13,7 +13,8 @@ Hi Maggie :)
 
 Hi Ali Cat! Here's a code chunk where you can work:
 ```{r Ali}
-
+2+2
+plot(cars)
 ```
 
 
